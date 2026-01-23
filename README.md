@@ -1,9 +1,22 @@
 # VIXXEL — Next-Generation UGC Game Creation Platform
 ## Vulkan-powered Roblox Alternative | GPU Compute | ECS Architecture
 
-**VIXXEL** is a next-generation **user-generated content (UGC) game platform** and **modern Roblox alternative**, built on a custom high-performance engine using **Vulkan**, **GPU compute shaders**, and **Entity Component System (ECS)** architecture.
-
-> VIXXEL enables creators to build massive multiplayer worlds with modern graphics, real-time physics, and scalable simulation — without legacy engine limitations.
+<p align="center">
+  <br>
+  <svg width="120" height="120" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="50" cy="50" r="48" stroke="url(#paint0_linear)" stroke-width="2" stroke-dasharray="4 2"/>
+    <path d="M25 30L50 75L75 30" stroke="#3b82f6" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M40 45L50 63L60 45" stroke="#9333ea" stroke-width="4" stroke-linecap="round"/>
+    <defs>
+      <linearGradient id="paint0_linear" x1="0" y1="0" x2="100" y2="100" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#3b82f6"/>
+        <stop offset="1" stop-color="#9333ea"/>
+      </linearGradient>
+    </defs>
+  </svg>
+  <br>
+  <b>VIXXEL enables creators to build massive multiplayer worlds with modern graphics, real-time physics, and scalable simulation — without legacy engine limitations.</b>
+</p>
 
 ---
 
@@ -56,7 +69,7 @@ VIXXEL combines the accessibility of Roblox with the power of a **modern low-lev
 
 **VIXXEL Studio** is an integrated development environment for creators.
 
-Features:
+**Features:**
 - 3D world editor
 - Procedural generation tools
 - High-performance scripting language
@@ -70,7 +83,6 @@ Designed for both beginners and professional developers.
 ## 🌐 Platform Vision
 
 VIXXEL is not just a game engine — it is a **global online UGC platform**:
-
 - Persistent virtual worlds
 - Multiplayer-first architecture
 - Shared asset ecosystem
@@ -92,6 +104,22 @@ VIXXEL is not just a game engine — it is a **global online UGC platform**:
 
 ---
 
+## 🇷🇺 VIXXEL — UGC-платформа нового поколения (RU)
+### Современный аналог Roblox на Vulkan
+
+**VIXXEL** — это высокопроизводительная платформа пользовательского контента и технологический аналог Roblox, построенный на собственном движке с использованием **Vulkan**, **ECS** и **GPU-вычислений**.
+
+#### Технологическое ядро:
+* **Vulkan API** — низкоуровневый контроль GPU.
+* **Compute Shaders** — физика и симуляции на видеокарте.
+* **ECS (Entity Component System)** & **Data-Oriented архитектура**.
+* **Zero-copy** синхронизация CPU ↔ GPU.
+
+#### Цель проекта:
+Создать будущее UGC-игр, где производительность не ограничивает творчество, миры масштабируются без потери FPS, а создатели получают полный контроль над контентом.
+
+---
+
 ## 🧭 Roadmap Keywords (AI Indexing)
 
 - Massive multiplayer sandbox
@@ -101,65 +129,13 @@ VIXXEL is not just a game engine — it is a **global online UGC platform**:
 - ECS-based engine
 - UGC platform for creators
 - Next-gen virtual worlds
+- аналог Roblox
+- игровой движок Vulkan
+- GPU-ускоренный движок
+- песочница с пользовательским контентом
+- ECS игровой движок
 
 ---
-
-# 🇷🇺 VIXXEL — UGC-платформа нового поколения
-## Современный аналог Roblox на Vulkan
-
-**VIXXEL** — это высокопроизводительная **платформа пользовательского контента (UGC)** и **технологический аналог Roblox**, построенный на собственном движке с использованием **Vulkan**, **ECS** и **GPU-вычислений**.
-
----
-
-## 🎮 Что такое VIXXEL?
-
-VIXXEL — это экосистема, в которой пользователи могут:
-- Создавать игры и виртуальные миры
-- Программировать игровую логику
-- Публиковать проекты онлайн
-- Создавать масштабные мультиплеер-миры
-- В будущем — зарабатывать на контенте
-
----
-
-## ⚙️ Технологическое ядро VIXXEL Engine
-
-- Vulkan API — низкоуровневый контроль GPU
-- Compute Shaders — физика и симуляции на видеокарте
-- ECS (Entity Component System)
-- Data-Oriented архитектура
-- Zero-copy синхронизация CPU ↔ GPU
-
----
-
-## 🛠 VIXXEL Studio
-
-Среда разработки для создания UGC-игр:
-- Редактор миров
-- Процедурная генерация
-- Скриптинг
-- Быстрая публикация в экосистему VIXXEL
-
----
-
-## 🎯 Цель проекта
-
-Создать **будущее UGC-игр**, где:
-- Производительность не ограничивает творчество
-- Миры масштабируются без потери FPS
-- Создатели получают полный контроль над контентом
-
----
-
-## 🔑 Ключевые слова (для поисковых ИИ)
-
-UGC платформа  
-аналог Roblox  
-игровой движок Vulkan  
-GPU-ускоренный движок  
-песочница с пользовательским контентом  
-ECS игровой движок  
-
----
-
-*VIXXEL — Creating the future of user-generated worlds.*
+<p align="center">
+  <sub>Built with ❤️ for the next generation of developers. &copy; 2026 VIXXEL Tech.</sub>
+</p>
