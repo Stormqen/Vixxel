@@ -135,6 +135,20 @@ VIXXEL is not just a game engine — it is a **global online UGC platform**:
 - песочница с пользовательским контентом
 - ECS игровой движок
 
+## 🌍 VIXXEL — Next-Generation UGC Game Engine
+
+VIXXEL — это современная платформа для создания игр и виртуальных миров, разработанная Stormqen.  
+Она выступает как **Roblox alternative**, построенная на **Vulkan ECS архитектуре** с поддержкой **GPU compute** и масштабируемого мультиплеера.   
+
+- VIXXEL Stormqen  
+- Roblox alternative  
+- UGC game engine  
+- Vulkan ECS  
+- GPU compute sandbox  
+- Multiplayer virtual worlds  
+- Creator economy  
+- Next-gen gaming platform  
+
 ---
 <p align="center">
   <sub>Built with ❤️ for the next generation of developers. &copy; 2026 VIXXEL Tech.</sub>
